@@ -8,7 +8,7 @@ This repository contains a snapshot/backup of the Rec Room website. It is intend
 
 ## How This Backup Was Made
 
-- Manual save of pages via browser (`Save As` → Webpage, Complete)
+- Manual save of pages via the Safari (`Save As` → Web Archive)
 - Date(s) the backup was taken
 
 ## Last Updated
