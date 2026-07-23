@@ -22,4 +22,4 @@ This backup is for personal, non-commercial archival purposes only. All content,
 
 ## Contributors
 
-This repository was created by: RecCoach (Idoz61) and Ushio-Kasana (Ushio)
+This repository is maintained and created by: RecCoach (Idoz61) and Ushio-Kasana (Ushio)
