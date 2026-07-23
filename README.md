@@ -19,3 +19,7 @@ This repository contains a snapshot/backup of the Rec Room website. It is intend
 ## Disclaimer
 
 This backup is for personal, non-commercial archival purposes only. All content, trademarks, and assets belonging to Rec Room / Rec Room Inc. remain the property of their respective owners. This repository is not affiliated with or endorsed by Rec Room.
+
+## Contributors
+
+This repository was created by: RecCoach (Idoz61) and Ushio-Kasana (Ushio)
