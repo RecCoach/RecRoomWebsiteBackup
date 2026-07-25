@@ -14,7 +14,7 @@ This repository contains a snapshot/backup of the Rec Room website. It is intend
 ## Last Updated
 
 <!-- Add the date you last updated this backup -->
-2026-07-23
+2026-07-25
 
 ## Disclaimer
 
@@ -23,3 +23,7 @@ This backup is for personal, non-commercial archival purposes only. All content,
 ## Contributors
 
 This repository is maintained and created by: RecCoach (Idoz61) and Ushio-Kasana (Ushio)
+
+## Socials
+
+To see more information please join our Discord Server, [Here](discord.com/invite/fMGdcGz2pc)!
