@@ -26,4 +26,4 @@ This repository is maintained and created by: RecCoach (Idoz61) and Ushio-Kasana
 
 ## Socials
 
-To see more information please join our Discord Server, [Here](discord.com/invite/fMGdcGz2pc)!
+To see more information please join our Discord Server, [Here!](discord.com/invite/fMGdcGz2pc)
