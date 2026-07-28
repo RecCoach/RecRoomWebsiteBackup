@@ -5,6 +5,7 @@ A backup archive of content from [recroom.com](https://recroom.com), maintained 
 ## About
 
 This repository contains a snapshot/backup of the Rec Room website. It is intended for personal archival and reference purposes.
+This repository is a part of the Rec Archive. Rec Archive Repository [Here](https://github.com/RecCoach/RecArchive).
 
 ## How This Backup Was Made
 
